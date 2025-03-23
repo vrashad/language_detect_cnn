@@ -168,7 +168,7 @@ When processing multiple words using the `--file` option, the tool can generate 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 License
 
 ## Acknowledgments
 
